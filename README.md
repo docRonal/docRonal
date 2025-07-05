@@ -40,3 +40,11 @@ I'm a beginner developer passionate about programming in **C** and **Python**, w
 > I believe code is more than instructions — it’s a tool to create, explore, and bring ideas to life.
 
 Thanks for stopping by! Feel free to explore my projects and connect. 🚀
+
+
+
+## 🔥 My stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal)](https://github.com/anuraghazra/github-readme-stats)
+
+
