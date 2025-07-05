@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there! I'm docRonal
 
+I'm a beginner developer passionate about programming in **C** and **Python**, with some experience in **HTML/CSS** for basic website layouts. I enjoy solving problems, working close to the system, and learning how things work under the hood.
 
-**docRonal/docRonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Programming Languages:
+- ⚙️ **C** – low-level programming, memory management, system tools
+- 🐍 **Python** – scripting, automation, parsing, Telegram bots
+- 🌐 **HTML / CSS** – responsive layouts, landing pages
 
+### Tools & Environments:
+- 💻 **Git** / GitHub – version control & collaboration
+- 🐧 **Linux** – command line, bash scripting, gcc/gdb
+- 🧰 **VS Code**, **Vim**, **Makefiles**, **Jupyter Notebooks**
+
+---
+
+## 🚀 What I’m Working On
+
+- Learning and improving every day
+- Building small tools and utilities in C and Python
+- Exploring web development basics
+- Contributing to personal and open-source projects
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [https://github.com/docRonal](https://github.com/docRonal)
+- Telegram: [@your_username]
+- Email: [your.email@example.com]
+
+---
+
+## ✨ A Little About Me
+
+> I believe code is more than instructions — it’s a tool to create, explore, and bring ideas to life.
+
+Thanks for stopping by! Feel free to explore my projects and connect. 🚀
