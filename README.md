@@ -31,7 +31,7 @@ I'm a beginner developer passionate about programming in **C** and **Python**, w
 
 - GitHub: [https://github.com/docRonal](https://github.com/docRonal)
 - Telegram: [@your_username]
-- Email: [your.email@example.com]
+- Email: [kharytonovivan14@gmail.com]
 
 ---
 
