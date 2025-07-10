@@ -45,6 +45,5 @@ Thanks for stopping by! Feel free to explore my projects and connect. 🚀
 
 ## 🔥 My stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal)](https://github.com/docRonal/github-readme-stats)
 
