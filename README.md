@@ -45,4 +45,27 @@ Thanks for stopping by! Feel free to explore my projects and connect. 🚀
 
 ## 🔥 My stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=docRonal&show_icons=true&theme=radical)](https://github.com/anurag-hazra/github-readme-stats)
+### 👨‍💻 Network Security Enthusiast & Python Developer
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=docRonal&show_icons=true&theme=radical&count_private=true" alt="docRonal's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=docRonal&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
