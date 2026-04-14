@@ -42,9 +42,6 @@ I'm a beginner developer passionate about programming in **C** and **Python**, w
 Thanks for stopping by! Feel free to explore my projects and connect. 🚀
 
 
-
-## 🔥 My stats:
-
 ### 👨‍💻 Network Security Enthusiast & Python Developer
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,17 +51,6 @@ Thanks for stopping by! Feel free to explore my projects and connect. 🚀
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=docRonal&show_icons=true&theme=radical&count_private=true" alt="docRonal's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=docRonal&color=blueviolet&style=flat-square" alt="Profile Views" />
