@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ivan (docRonal)
+# 👋 Hi there! I'm docRonal
 
 ### 👨‍💻 Cybersecurity Enthusiast & Software Developer
 
