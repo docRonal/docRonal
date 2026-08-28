@@ -18,7 +18,7 @@ I am a developer passionate about **Information Security**, network programming,
 
 ### 💻 Programming Languages:
 - **Golang** – concurrent networking (goroutines), cybersecurity tooling, API integrations, file system monitoring
-- **C** – low-level programming, memory management, system tools
+- **C/C++** – low-level programming, memory management, system tools
 - **Python** – scripting, automation, parsing, Telegram bots
 - **HTML / CSS** – responsive layouts, basic web development
 
