@@ -56,4 +56,4 @@ My primary educational repository dedicated to cybersecurity tooling in Go.
   <img src="https://komarev.com/ghpvc/?username=docRonal&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs?username=docRonal&layout=compact&theme=radical)
