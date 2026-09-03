@@ -58,3 +58,5 @@ My primary educational repository dedicated to cybersecurity tooling in Go.
 
 
 ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal&layout=compact)
+
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=docRonal&layout=compact&theme=radical)
