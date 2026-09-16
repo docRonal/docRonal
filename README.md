@@ -51,8 +51,4 @@ My primary educational repository dedicated to cybersecurity tooling in Go.
 
 > *I believe code is more than instructions — it’s a tool to create, explore, and bring ideas to life. Security is understanding how those ideas can be broken, and how to make them unbreakable.*
 
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=docRonal&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=docRonal&layout=compact&theme=radical" alt="Top lang" />
+[![DocRonal's GitHub stats](https://github-stats-extended.vercel.app/api?username=docRonal)](https://github.com/stats-organization/github-stats-extended)
