@@ -52,4 +52,5 @@ My primary educational repository dedicated to cybersecurity tooling in Go.
 > *I believe code is more than instructions — it’s a tool to create, explore, and bring ideas to life. Security is understanding how those ideas can be broken, and how to make them unbreakable.*
 
 [![DocRonal's GitHub stats](https://github-stats-extended.vercel.app/api?username=docRonal)](https://github.com/stats-organization/github-stats-extended)
+---
 [![DocRonal's GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=docRonal&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=docRonal&langs_count=4&theme=dark_github)
