@@ -38,6 +38,11 @@ I am a developer passionate about **Information Security**, network programming,
 My primary educational repository dedicated to cybersecurity tooling in Go. 
 * Includes high-speed concurrent TCP scanners, File Integrity Monitors (FIM), interactive C2 shell prototypes, XOR encryptors, and OSINT automation via the VirusTotal API.
 
+### 📌[https://github.com/docRonal/Secure_Scan?tab=readme-ov-file]
+Web application security scanner that runs 12 passive checks (headers, TLS, cookies, CORS, exposed files, SPF/DMARC and more) and optional OWASP ZAP active scans. Active scans are only allowed on domains whose ownership the user has verified. Results are scored by severity and exported as PDF, CSV, or HTML reports.
+
+*Stack:** Python, FastAPI, React, TypeScript, Docker Compose, OWASP ZAP.
+*Run:** `docker compose up --build`, then open http://localhost:8081.
 ---
 
 
